@@ -34,3 +34,6 @@ function plusMinus(arr) {
   
 }
 
+//find a better solution from lst of other peoples
+//soloutions. understand how its better, or why it would
+// help you learn it.
