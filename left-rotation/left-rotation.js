@@ -39,3 +39,31 @@ function rotLeft(a, d) {
 
 
 
+//use this with another solution you find - try to use a different method
+
+
+// function rotLeft(a, d) {
+
+    
+//   let fillArr = a
+//   let i = 0
+//   while(i < d){
+      
+//       // fillArr = a.slice(1)
+//       // fillArr.push(a[0])
+//       let first = fillArr.shift();
+//       fillArr.push(first);
+      
+      
+//       // a = fillArr
+//       // fillArr = []
+      
+//       i++
+      
+//   }
+
+//   return fillArr
+
+// }
+
+
